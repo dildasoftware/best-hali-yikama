@@ -74,7 +74,7 @@ export const Footer = () => {
             </div>
 
             <div className="max-w-7xl mx-auto px-4 mt-12 pt-8 border-t border-gray-800 text-center text-gray-400 text-sm">
-                © {new Date().getFullYear()} Best Halı Yıkama. Tüm hakları saklıdır. Antigravity ile tasarlanmıştır.
+                © {new Date().getFullYear()} Best Halı Yıkama. Tüm hakları saklıdır.
             </div>
         </footer>
     );
